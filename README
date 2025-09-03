@@ -1,6 +1,6 @@
 # NestJS Event Management API
 
-A backend REST API built with **NestJS**, **MongoDB**, and **JWT** for managing events, user registration, and authentication.
+A backend REST API built with NestJS, MongoDB, and JWT for managing events, user registration, and authentication.
 
 
 
