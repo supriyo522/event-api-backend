@@ -1,0 +1,19 @@
+# NestJS Event Management API
+
+A backend REST API built with **NestJS**, **MongoDB**, and **JWT** for managing events, user registration, and authentication.
+
+
+
+ Features
+
+ JWT-based Authentication (Login/Register)
+ Role-based access control (`admin`, `user`)
+ Event creation, update, delete (Admin only)
+Event listing with pagination, search, and date filters
+Attendee registration
+ Banner image upload (PNG/JPG)
+MongoDB for data persistence
+
+---
+Getting Started
+
